@@ -29,6 +29,8 @@ a container image contains many network tools, such as:
 - `iptables`: Iptables is used to set up, maintain, and inspect the tables of IP packet filter rules in the Linux kernel. Several different tables may be defined. Each table contains a number of built-in chains and may also contain user-defined chains.
 - `netstat`: Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
 - `whois`: whois searches for an object in a WHOIS database.
+- `stress-ng`: stress-ng  will  stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well  as  the  various  operating system  kernel  interfaces.   stress-ng also has a wide range of CPU specific stress tests that exercise floating point, integer, bit manipulation and control flow.
+
 
 
 
