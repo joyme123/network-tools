@@ -23,6 +23,13 @@ a container image contains many network tools, such as:
 - `httpd`: HTTPd is a software program that usually runs in the background, as a process, and plays the role of a server in a client–server model using the HTTP and/or HTTPS network protocol(s). (run `httpd` to start a simple http server listen at port 80)
 - `openssl`: OpenSSL is a robust, commercial-grade, full-featured Open Source Toolkit for the Transport Layer Security (TLS) protocol formerly known as the Secure Sockets Layer (SSL) protocol. The protocol implementation is based on a full-strength general purpose cryptographic library, which can also be used stand-alone.
 - `go-httpbin`: A reasonably complete and well-tested golang port of Kenneth Reitz's httpbin service, with zero dependencies outside the go stdlib. https://github.com/mccutchen/go-httpbin
+- `traceroute`: Traceroute is a simple yet clever command-line tool for tracing the path an IP packet takes across one or many networks.
+- `mtr`: Mtr is a network diagnostic tool that combines ping and traceroute into one program.
+- `ss`: ss is used to dump socket statistics. It allows showing information similar to netstat. It can display more TCP and state information than other tools.
+- `iptables`: Iptables is used to set up, maintain, and inspect the tables of IP packet filter rules in the Linux kernel. Several different tables may be defined. Each table contains a number of built-in chains and may also contain user-defined chains.
+- `netstat`: Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+- `whois`: whois searches for an object in a WHOIS database.
+
 
 
 ## Usage
