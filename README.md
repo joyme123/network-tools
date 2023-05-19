@@ -36,5 +36,5 @@ a container image contains many network tools, such as:
 
 ## Usage
 ```bash
-docker pull joyme/network-tools:v0.2
+docker pull joyme/network-tools:latest
 ```
